@@ -12,6 +12,6 @@
 
 1. [MNIST](https://github.com/dimaakapout/MyProjects/blob/master/001_MNIST.ipynb)
 2. [Fachion MNIST](https://github.com/dimaakapout/MyProjects/blob/master/002_Fachion_MNIST.ipynb)
-3. Cat vs.Dog [kaggle]
+3. [Cat vs.Dog](https://github.com/dimaakapout/MyProjects/blob/master/003_Dogs_vs_Cats.ipynb) [kaggle] 
 
 # Kaggle
